@@ -6,7 +6,8 @@ Installation
 
     Install the dependencies
 
-    $ npm install
+    $ npm install create-react-class
+	$ npm install react-draggable
 
     Run the app
 
