@@ -1,6 +1,7 @@
 # react-bulletin-board
 
-A Bulletin Board used for storing notes built out of react. Students develop this app Moon Highway's react kickoff class.
+A Bulletin Board used for storing notes built out of react. 
+
 Installation
 
     Install the dependencies
