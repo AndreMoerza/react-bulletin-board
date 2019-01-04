@@ -10,7 +10,3 @@ A Bulletin Board used for storing notes built out of react.
 ### Run the app
 
 - $ npm start
-
-## Author
-
-Andre Pratama 2018
